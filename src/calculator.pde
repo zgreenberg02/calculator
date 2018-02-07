@@ -1,11 +1,4 @@
- //<>//
-// to fix in the future
-// astetics
-// make ldot and rdot because dot doesnt work
-// fix pi 0pi, pi in nls
-//fix so can write negative before nubmers
-// mabey add a function button
-// write with keyboard
+
 Button[] numButs = new Button[10]; 
 Button[] charButs = new Button[16];
 float s;
